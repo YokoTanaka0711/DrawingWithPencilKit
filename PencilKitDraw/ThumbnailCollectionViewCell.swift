@@ -6,6 +6,7 @@ The thumbnail cell for showing thumbnails in ThumbnailCollectionViewController.
 */
 
 import UIKit
+import Firebase
 
 class ThumbnailCollectionViewCell: UICollectionViewCell {
     

@@ -7,6 +7,7 @@ Abstract:
 
 import UIKit
 
+// 色を変更している。
 class PencilKitDrawNavigationController: UINavigationController {
     override func viewDidLoad() {
         super.viewDidLoad()

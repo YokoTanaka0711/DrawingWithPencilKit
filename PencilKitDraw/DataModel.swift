@@ -39,7 +39,7 @@ protocol DataModelControllerObserver {
     func dataModelChanged()
 }
 
-/// `DataModelController` coordinates changes to the data  model.
+/// `DataModelController` viewと
 class DataModelController {
     
     /// The underlying data model.

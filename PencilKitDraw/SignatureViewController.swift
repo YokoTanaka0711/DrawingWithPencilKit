@@ -11,6 +11,7 @@ Abstract:
 
 import UIKit
 import PencilKit
+import Firebase
 
 class SignatureViewController: UIViewController {
     
